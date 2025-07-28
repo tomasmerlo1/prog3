@@ -1,34 +1,94 @@
-import personajes.*;
 import juego.Batalla;
 import juego.Jugador;
 
+import util.LogManager;
+import util.PersonajeFactory;
+
 import java.util.List;
+
+import java.util.Scanner;
 
 public class Main {
     public static void main(String[] args) {
-        // Tus personajes
-        Humano humano = new Humano("Arthas", "El Valiente", "1990-01-01", 35,
-                100, 5, 3, 8, 2, 6);
-        Orco orco = new Orco("Grom", "El Destructor", "1800-07-22", 120,
-                100, 4, 2, 10, 3, 7);
+        Scanner sc = new Scanner(System.in);
+        boolean seguir = true;
 
-        // Creamos jugadores y asignamos un solo personaje a cada uno
-        Jugador jugador1 = new Jugador("Jugador 1");
-        jugador1.agregarPersonaje(humano);
+        while (seguir) {
+            System.out.println("\nBIENVENIDO A LA BATALLA DEL TRONO DE HIERRO");
+            System.out.println("1. Iniciar partida (personajes aleatorios)");
+            System.out.println("2. Iniciar partida (personajes manuales)");
+            System.out.println("3. Ver logs de partidas anteriores");
+            System.out.println("4. Borrar logs");
+            System.out.println("5. Salir");
+            System.out.print("Elige una opción: ");
+            String opcion = sc.nextLine();
 
-        Jugador jugador2 = new Jugador("Jugador 2");
-        jugador2.agregarPersonaje(orco);
+            switch (opcion) {
+                case "1" -> iniciarPartidaAleatoria(sc);
+                case "2" -> iniciarPartidaManual(sc);
+                case "3" -> LogManager.leerLog();
+                case "4" -> LogManager.borrarLog();
+                case "5" -> {
+                    seguir = false;
+                    System.out.println("Hasta la próxima batalla!");
+                }
+                default -> System.out.println("Opción no válida.");
+            }
+        }
 
-        // Ejecutamos batalla
-        Batalla batalla = new Batalla(jugador1, jugador2);
+        sc.close();
+    }
+
+    private static void iniciarPartidaAleatoria(Scanner sc) {
+        Jugador j1 = new Jugador("Jugador 1");
+        Jugador j2 = new Jugador("Jugador 2");
+
+        for (int i = 0; i < 3; i++) {
+            j1.agregarPersonaje(PersonajeFactory.generarAleatorio());
+            j2.agregarPersonaje(PersonajeFactory.generarAleatorio());
+        }
+
+        System.out.println("\nPersonajes generados aleatoriamente.\n");
+
+
+        j1.mostrarEstadoPersonajes();
+
+
+        Batalla batalla = new Batalla(j1, j2);
         batalla.iniciar();
 
-        // Mostramos el log de la batalla
+
         List<String> log = batalla.getLog();
         System.out.println("\n===== LOG DE BATALLA =====");
         for (String linea : log) {
             System.out.println(linea);
         }
+
+
+        LogManager.guardarLog(log);
+    }
+
+
+    private static void iniciarPartidaManual(Scanner sc) {
+        Jugador j1 = new Jugador("Jugador 1");
+        Jugador j2 = new Jugador("Jugador 2");
+
+        System.out.println("\nJugador 1 - Crear 3 personajes:");
+        for (int i = 0; i < 3; i++) {
+            j1.agregarPersonaje(PersonajeFactory.generarManual(sc));
+        }
+
+        System.out.println("\nJugador 2 - Crear 3 personajes:");
+        for (int i = 0; i < 3; i++) {
+            j2.agregarPersonaje(PersonajeFactory.generarManual(sc));
+        }
+
+        System.out.println("Personajes ingresados manualmente.");
+        j1.mostrarEstadoPersonajes();
+        j2.mostrarEstadoPersonajes();
+
+        Batalla batalla = new Batalla(j1, j2);
+        batalla.iniciar();
+        LogManager.guardarLog(batalla.getLog());
     }
 }
-

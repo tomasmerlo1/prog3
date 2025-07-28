@@ -1,0 +1,1079 @@
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: El toro de Minos (J1) vs Gigante tuerto (J2)
+Gigante tuerto ataca a El toro de Minos y le quita 3 de salud. Salud restante: 97
+El toro de Minos ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El toro de Minos y le quita 6 de salud. Salud restante: 91
+El toro de Minos ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El toro de Minos y le quita 42 de salud. Salud restante: 49
+El toro de Minos ataca a Gigante tuerto y le quita 5 de salud. Salud restante: 95
+Gigante tuerto ataca a El toro de Minos y le quita 4 de salud. Salud restante: 45
+El toro de Minos ataca a Gigante tuerto y le quita 6 de salud. Salud restante: 89
+Gigante tuerto ataca a El toro de Minos y le quita 46 de salud. Salud restante: 0
+El toro de Minos ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 9
+
+Nueva ronda: La Reina de los dioses (J1) vs Gigante tuerto (J2)
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 17 de salud. Salud restante: 83
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 22 de salud. Salud restante: 61
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 58
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 13 de salud. Salud restante: 45
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 42 de salud. Salud restante: 3
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 3
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 99
+Gigante tuerto ataca a La Reina de los dioses y le quita 18 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 10
+
+Nueva ronda: La Reina de los dioses (J1) vs Gigante tuerto (J2)
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a La Reina de los dioses y le quita 27 de salud. Salud restante: 73
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a La Reina de los dioses y le quita 54 de salud. Salud restante: 19
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 17
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a La Reina de los dioses y le quita 16 de salud. Salud restante: 1
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a La Reina de los dioses y le quita 21 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 11
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: El de los pies ligeros (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 5 de salud. Salud restante: 95
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 14 de salud. Salud restante: 81
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 29 de salud. Salud restante: 52
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 29 de salud. Salud restante: 23
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 23
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 10 de salud. Salud restante: 13
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 29 de salud. Salud restante: 0
+El de los pies ligeros ha muerto. El Dios de los muertos y el inframundo gana la ronda.
+El Dios de los muertos y el inframundo gana 10 de salud y sube a nivel 7
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+La Reina de los dioses ataca a El Dios de los mares y le quita 2 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 1 de salud. Salud restante: 97
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 12 de salud. Salud restante: 88
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 4 de salud. Salud restante: 96
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 18 de salud. Salud restante: 70
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 5 de salud. Salud restante: 91
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 69
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 81
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 12 de salud. Salud restante: 57
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 81
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 57
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 2 de salud. Salud restante: 79
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 57
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 69
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 1 de salud. Salud restante: 99
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 6 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 69
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 69
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 6 de salud. Salud restante: 63
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 63
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 5 de salud. Salud restante: 58
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 58
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 48
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El toro de Minos (J2)
+La Reina de los dioses ataca a El toro de Minos y le quita 15 de salud. Salud restante: 85
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 10 de salud. Salud restante: 75
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 2 de salud. Salud restante: 73
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 3 de salud. Salud restante: 70
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 0 de salud. Salud restante: 70
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 0 de salud. Salud restante: 70
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El toro de Minos y le quita 13 de salud. Salud restante: 57
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 48
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 51
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 6 de salud. Salud restante: 42
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 20 de salud. Salud restante: 31
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 42
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 18 de salud. Salud restante: 13
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 9 de salud. Salud restante: 33
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 7 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El toro de Minos (J2)
+La Reina de los dioses ataca a El toro de Minos y le quita 17 de salud. Salud restante: 40
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El toro de Minos y le quita 12 de salud. Salud restante: 28
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El toro de Minos y le quita 4 de salud. Salud restante: 24
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El toro de Minos y le quita 16 de salud. Salud restante: 8
+El toro de Minos ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a El toro de Minos y le quita 16 de salud. Salud restante: 0
+El toro de Minos ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 6
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 13 de salud. Salud restante: 10
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 16
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 11 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. El Dios de los muertos y el inframundo gana la ronda.
+El Dios de los muertos y el inframundo gana 10 de salud y sube a nivel 8
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 99
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 1 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 98
+El Dios del trueno ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 3 de salud. Salud restante: 95
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 40 de salud. Salud restante: 55
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 36 de salud. Salud restante: 19
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 41 de salud. Salud restante: 0
+El Dios del trueno ha muerto. El Dios de los muertos y el inframundo gana la ronda.
+El Dios de los muertos y el inframundo gana 10 de salud y sube a nivel 9
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 1
+
+Nueva ronda: El Dios de los muertos y el inframundo (J1) vs El de los pies ligeros (J2)
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 7 de salud. Salud restante: 93
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 9 de salud. Salud restante: 84
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 11 de salud. Salud restante: 73
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 3 de salud. Salud restante: 70
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 11 de salud. Salud restante: 59
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 59
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 5 de salud. Salud restante: 54
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios de los muertos y el inframundo (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 3 de salud. Salud restante: 97
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 96
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 11 de salud. Salud restante: 86
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 17 de salud. Salud restante: 79
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 3 de salud. Salud restante: 83
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 12 de salud. Salud restante: 67
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 9 de salud. Salud restante: 74
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 13 de salud. Salud restante: 54
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 74
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 13 de salud. Salud restante: 41
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 1 de salud. Salud restante: 73
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 9 de salud. Salud restante: 32
+La Reina de los dioses ataca a El Dios de los muertos y el inframundo y le quita 4 de salud. Salud restante: 69
+El Dios de los muertos y el inframundo ataca a La Reina de los dioses y le quita 19 de salud. Salud restante: 13
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios de los muertos y el inframundo (J1) vs La Diosa de la sabiduria (J2)
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 2 de salud. Salud restante: 67
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 15 de salud. Salud restante: 52
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 24 de salud. Salud restante: 28
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 4 de salud. Salud restante: 96
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 2 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 87
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 7 de salud. Salud restante: 19
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 4 de salud. Salud restante: 83
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 5 de salud. Salud restante: 14
+El Dios de los muertos y el inframundo ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 83
+La Diosa de la sabiduria ataca a El Dios de los muertos y el inframundo y le quita 20 de salud. Salud restante: 0
+El Dios de los muertos y el inframundo ha muerto. La Diosa de la sabiduria gana la ronda.
+La Diosa de la sabiduria gana 10 de salud y sube a nivel 10
+
+Nueva ronda: Gigante tuerto (J1) vs La Diosa de la sabiduria (J2)
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 93
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 21 de salud. Salud restante: 79
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 1 de salud. Salud restante: 92
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 21 de salud. Salud restante: 58
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 92
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 9 de salud. Salud restante: 49
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 1 de salud. Salud restante: 91
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 10 de salud. Salud restante: 39
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 91
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 10 de salud. Salud restante: 29
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 91
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 17 de salud. Salud restante: 12
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 91
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 12
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Diosa de la sabiduria y le quita 7 de salud. Salud restante: 93
+La Diosa de la sabiduria ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 13
+La Reina de los dioses ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 93
+La Diosa de la sabiduria ataca a La Reina de los dioses y le quita 15 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. La Diosa de la sabiduria gana la ronda.
+La Diosa de la sabiduria gana 10 de salud y sube a nivel 7
+
+Nueva ronda: Gigante tuerto (J1) vs La Diosa de la sabiduria (J2)
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 8
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 2 de salud. Salud restante: 89
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 20 de salud. Salud restante: 0
+Gigante tuerto ha muerto. La Diosa de la sabiduria gana la ronda.
+La Diosa de la sabiduria gana 10 de salud y sube a nivel 11
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs El de los pies ligeros (J2)
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 54
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 11 de salud. Salud restante: 43
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 15 de salud. Salud restante: 28
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 1 de salud. Salud restante: 27
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 27
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 8 de salud. Salud restante: 19
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 7 de salud. Salud restante: 12
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs La Diosa de la sabiduria (J2)
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 100
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 99
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 21 de salud. Salud restante: 79
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 17 de salud. Salud restante: 82
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 30 de salud. Salud restante: 49
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 5 de salud. Salud restante: 77
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 49
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 68
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 11 de salud. Salud restante: 38
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 68
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 38
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 11 de salud. Salud restante: 57
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 18 de salud. Salud restante: 20
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 57
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs La Diosa de la sabiduria (J2)
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 57
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 4 de salud. Salud restante: 16
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 57
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 5 de salud. Salud restante: 11
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 11 de salud. Salud restante: 46
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 2
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 17 de salud. Salud restante: 29
+La Diosa de la sabiduria ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 0
+La Diosa de la sabiduria ha muerto. La Diosa de la sabiduria gana la ronda.
+La Diosa de la sabiduria gana 10 de salud y sube a nivel 12
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 98
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs La Reina de los dioses (J2)
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 96
+Gigante tuerto ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 97
+La Reina de los dioses ataca a Gigante tuerto y le quita 6 de salud. Salud restante: 90
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 97
+La Reina de los dioses ataca a Gigante tuerto y le quita 7 de salud. Salud restante: 83
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 97
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 83
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 97
+La Reina de los dioses ataca a Gigante tuerto y le quita 1 de salud. Salud restante: 82
+Gigante tuerto ataca a La Reina de los dioses y le quita 5 de salud. Salud restante: 92
+La Reina de los dioses ataca a Gigante tuerto y le quita 7 de salud. Salud restante: 75
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a Gigante tuerto y le quita 2 de salud. Salud restante: 73
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a Gigante tuerto y le quita 7 de salud. Salud restante: 66
+Gigante tuerto ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 88
+La Reina de los dioses ataca a Gigante tuerto y le quita 8 de salud. Salud restante: 58
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 88
+La Reina de los dioses ataca a Gigante tuerto y le quita 3 de salud. Salud restante: 55
+Gigante tuerto ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 84
+La Reina de los dioses ataca a Gigante tuerto y le quita 7 de salud. Salud restante: 48
+Gigante tuerto ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 80
+La Reina de los dioses ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 48
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 80
+La Reina de los dioses ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 44
+Gigante tuerto ataca a La Reina de los dioses y le quita 6 de salud. Salud restante: 74
+La Reina de los dioses ataca a Gigante tuerto y le quita 5 de salud. Salud restante: 39
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 74
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 74
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 71
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 68
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 65
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 65
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 65
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 65
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a Gigante tuerto y le quita 5 de salud. Salud restante: 34
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 65
+La Reina de los dioses ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 30
+Gigante tuerto ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 62
+La Reina de los dioses ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 26
+Gigante tuerto ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 58
+La Reina de los dioses ataca a Gigante tuerto y le quita 4 de salud. Salud restante: 22
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 58
+La Reina de los dioses ataca a Gigante tuerto y le quita 3 de salud. Salud restante: 19
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 58
+La Reina de los dioses ataca a Gigante tuerto y le quita 8 de salud. Salud restante: 11
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 58
+La Reina de los dioses ataca a Gigante tuerto y le quita 5 de salud. Salud restante: 6
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 58
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs La Reina de los dioses (J2)
+Gigante tuerto ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 56
+La Reina de los dioses ataca a Gigante tuerto y le quita 7 de salud. Salud restante: 0
+Gigante tuerto ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 2
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 66
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 66
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 66
+La Reina de los dioses ataca a La Reina de los dioses y le quita 4 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 66
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 66
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 96
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 64
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 64
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 64
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 93
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 64
+La Reina de los dioses ataca a La Reina de los dioses y le quita 6 de salud. Salud restante: 87
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 62
+La Reina de los dioses ataca a La Reina de los dioses y le quita 5 de salud. Salud restante: 82
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 62
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 82
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 60
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 82
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 60
+La Reina de los dioses ataca a La Reina de los dioses y le quita 10 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 60
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 94
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 93
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 92
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 92
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 10 de salud. Salud restante: 82
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 8 de salud. Salud restante: 74
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 74
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 14 de salud. Salud restante: 60
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 12 de salud. Salud restante: 48
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 11 de salud. Salud restante: 37
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 59
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 37
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 58
+La Reina de los dioses ataca a La Reina de los dioses y le quita 6 de salud. Salud restante: 31
+La Reina de los dioses ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 55
+La Reina de los dioses ataca a La Reina de los dioses y le quita 13 de salud. Salud restante: 18
+La Reina de los dioses ataca a La Reina de los dioses y le quita 5 de salud. Salud restante: 50
+La Reina de los dioses ataca a La Reina de los dioses y le quita 8 de salud. Salud restante: 10
+La Reina de los dioses ataca a La Reina de los dioses y le quita 3 de salud. Salud restante: 47
+La Reina de los dioses ataca a La Reina de los dioses y le quita 14 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 3
+
+Nueva ronda: La Reina de los dioses (J1) vs El Dios de los mares (J2)
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 100
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 72
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Reina de los dioses (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 56
+La Reina de los dioses ataca a La Reina de los dioses y le quita 14 de salud. Salud restante: 58
+La Reina de los dioses ataca a La Reina de los dioses y le quita 2 de salud. Salud restante: 54
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 58
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 54
+La Reina de los dioses ataca a La Reina de los dioses y le quita 17 de salud. Salud restante: 41
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 54
+La Reina de los dioses ataca a La Reina de los dioses y le quita 18 de salud. Salud restante: 23
+La Reina de los dioses ataca a La Reina de los dioses y le quita 1 de salud. Salud restante: 53
+La Reina de los dioses ataca a La Reina de los dioses y le quita 19 de salud. Salud restante: 4
+La Reina de los dioses ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 53
+La Reina de los dioses ataca a La Reina de los dioses y le quita 8 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 4
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: El de los pies ligeros (J1) vs Gigante tuerto (J2)
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 6 de salud. Salud restante: 94
+Gigante tuerto ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 94
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El de los pies ligeros (J1) vs La Reina de los dioses (J2)
+El de los pies ligeros ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El de los pies ligeros y le quita 54 de salud. Salud restante: 46
+El de los pies ligeros ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El de los pies ligeros y le quita 91 de salud. Salud restante: 0
+El de los pies ligeros ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 10
+
+Nueva ronda: El Dios de los mares (J1) vs El de los pies ligeros (J2)
+El Dios de los mares ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a El Dios de los mares y le quita 2 de salud. Salud restante: 98
+El Dios de los mares ataca a El de los pies ligeros y le quita 1 de salud. Salud restante: 99
+El de los pies ligeros ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 99
+El de los pies ligeros ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 98
+El Dios de los mares ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 99
+El de los pies ligeros ataca a El Dios de los mares y le quita 1 de salud. Salud restante: 97
+El Dios de los mares ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 99
+El de los pies ligeros ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El de los pies ligeros y le quita 2 de salud. Salud restante: 97
+El de los pies ligeros ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+El Dios de los mares ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 97
+El de los pies ligeros ataca a El Dios de los mares y le quita 0 de salud. Salud restante: 97
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: Gigante tuerto (J1) vs La Reina de los dioses (J2)
+La Reina de los dioses ataca a Gigante tuerto y le quita 85 de salud. Salud restante: 15
+Gigante tuerto ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a Gigante tuerto y le quita 44 de salud. Salud restante: 0
+Gigante tuerto ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 11
+
+Nueva ronda: El Dios de los mares (J1) vs La Reina de los dioses (J2)
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 18 de salud. Salud restante: 79
+El Dios de los mares ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El Dios de los mares y le quita 102 de salud. Salud restante: 0
+El Dios de los mares ha muerto. La Reina de los dioses gana la ronda.
+La Reina de los dioses gana 10 de salud y sube a nivel 12
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: El Dios del trueno (J1) vs La Diosa de la sabiduria (J2)
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 2 de salud. Salud restante: 98
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 10 de salud. Salud restante: 88
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 79
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 10 de salud. Salud restante: 69
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 69
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 12 de salud. Salud restante: 57
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 7 de salud. Salud restante: 50
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El Dios del trueno (J1) vs La Diosa de la sabiduria (J2)
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 15 de salud. Salud restante: 35
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 6 de salud. Salud restante: 29
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 16 de salud. Salud restante: 13
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 14 de salud. Salud restante: 0
+La Diosa de la sabiduria ha muerto. El Dios del trueno gana la ronda.
+El Dios del trueno gana 10 de salud y sube a nivel 4
+
+Nueva ronda: El Dios del trueno (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 16 de salud. Salud restante: 84
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 84
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 100
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 84
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 27 de salud. Salud restante: 73
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 84
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 2 de salud. Salud restante: 71
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 0 de salud. Salud restante: 84
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 26 de salud. Salud restante: 45
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 3 de salud. Salud restante: 81
+El Dios de los muertos y el inframundo ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 45
+El Dios del trueno ataca a El Dios de los muertos y el inframundo y le quita 16 de salud. Salud restante: 65
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: El de los pies ligeros (J1) vs La Reina de los dioses (J2)
+El de los pies ligeros ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 100
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 26 de salud. Salud restante: 74
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 74
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 0 de salud. Salud restante: 74
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 33 de salud. Salud restante: 41
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 30 de salud. Salud restante: 11
+La Reina de los dioses ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 100
+El de los pies ligeros ataca a La Reina de los dioses y le quita 34 de salud. Salud restante: 0
+La Reina de los dioses ha muerto. El de los pies ligeros gana la ronda.
+El de los pies ligeros gana 10 de salud y sube a nivel 11
+
+Nueva ronda: El de los pies ligeros (J1) vs El Dios de los muertos y el inframundo (J2)
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 14 de salud. Salud restante: 86
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 29 de salud. Salud restante: 36
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 21 de salud. Salud restante: 65
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a El de los pies ligeros y le quita 2 de salud. Salud restante: 63
+El de los pies ligeros ataca a El Dios de los muertos y el inframundo y le quita 36 de salud. Salud restante: 0
+El Dios de los muertos y el inframundo ha muerto. El de los pies ligeros gana la ronda.
+El de los pies ligeros gana 10 de salud y sube a nivel 12
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 1 gana el trono de hierro!
+===== FIN PARTIDA =====
+
+===== NUEVA PARTIDA =====
+----- INICIA LA BATALLA POR EL TRONO -----
+Sorteo inicial: empieza atacando Jugador 2
+
+Nueva ronda: El Dios de los muertos y el inframundo (J1) vs Gigante tuerto (J2)
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 23 de salud. Salud restante: 77
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 23 de salud. Salud restante: 54
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 26 de salud. Salud restante: 28
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 2 de salud. Salud restante: 26
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 5 de salud. Salud restante: 21
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 3 de salud. Salud restante: 18
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 24 de salud. Salud restante: 0
+El Dios de los muertos y el inframundo ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 10
+
+Nueva ronda: El Dios de los muertos y el inframundo (J1) vs Gigante tuerto (J2)
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 11 de salud. Salud restante: 89
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 27 de salud. Salud restante: 62
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 21 de salud. Salud restante: 41
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 10 de salud. Salud restante: 31
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 12 de salud. Salud restante: 19
+El Dios de los muertos y el inframundo ataca a Gigante tuerto y le quita 0 de salud. Salud restante: 100
+Gigante tuerto ataca a El Dios de los muertos y el inframundo y le quita 29 de salud. Salud restante: 0
+El Dios de los muertos y el inframundo ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 11
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs El Dios del trueno (J2)
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 20 de salud. Salud restante: 80
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 91
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 17 de salud. Salud restante: 63
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 12 de salud. Salud restante: 79
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 18 de salud. Salud restante: 45
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 70
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 3 de salud. Salud restante: 42
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 11 de salud. Salud restante: 59
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 17 de salud. Salud restante: 25
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 9 de salud. Salud restante: 50
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 0 de salud. Salud restante: 25
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 5 de salud. Salud restante: 45
+La Diosa de la sabiduria ataca a El Dios del trueno y le quita 14 de salud. Salud restante: 11
+El Dios del trueno ataca a La Diosa de la sabiduria y le quita 1 de salud. Salud restante: 44
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs El de los pies ligeros (J2)
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 16 de salud. Salud restante: 84
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 19 de salud. Salud restante: 65
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 15 de salud. Salud restante: 50
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 15 de salud. Salud restante: 35
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 0 de salud. Salud restante: 35
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 5 de salud. Salud restante: 30
+El de los pies ligeros ataca a La Diosa de la sabiduria y le quita 0 de salud. Salud restante: 44
+La Diosa de la sabiduria ataca a El de los pies ligeros y le quita 4 de salud. Salud restante: 26
+Nadie murió en esta ronda. Ambos personajes siguen en juego.
+
+Nueva ronda: La Diosa de la sabiduria (J1) vs Gigante tuerto (J2)
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 14 de salud. Salud restante: 86
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 33 de salud. Salud restante: 11
+La Diosa de la sabiduria ataca a Gigante tuerto y le quita 2 de salud. Salud restante: 84
+Gigante tuerto ataca a La Diosa de la sabiduria y le quita 17 de salud. Salud restante: 0
+La Diosa de la sabiduria ha muerto. Gigante tuerto gana la ronda.
+Gigante tuerto gana 10 de salud y sube a nivel 12
+
+----- FIN DE LA BATALLA -----
+🎉 Jugador 2 gana el trono de hierro!
+===== FIN PARTIDA =====
+
